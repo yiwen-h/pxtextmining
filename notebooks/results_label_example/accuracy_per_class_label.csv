@@ -1,0 +1,10 @@
+class,counts,accuracy
+Access,136,0.4411764705882353
+Care received,1110,0.6423423423423423
+Communication,288,0.5208333333333334
+Couldn't be improved,562,0.8790035587188612
+Dignity,47,0.23404255319148937
+Environment/ facilities,165,0.6606060606060606
+Miscellaneous,116,0.5
+Staff,938,0.7174840085287847
+Transition/coordination,48,0.375
